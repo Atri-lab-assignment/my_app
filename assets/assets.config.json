@@ -1,0 +1,47 @@
+{
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "bag-icon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "appx.jpg": {
+    "mime": "image/jpeg"
+  },
+  "appx2.jpg": {
+    "mime": "image/jpeg"
+  },
+  "about me.svg": {
+    "mime": "image/svg+xml"
+  },
+  "ui.ux.svg": {
+    "mime": "image/svg+xml"
+  },
+  "product.svg": {
+    "mime": "image/svg+xml"
+  },
+  "web design.svg": {
+    "mime": "image/svg+xml"
+  },
+  "user reaseach.svg": {
+    "mime": "image/svg+xml"
+  },
+  "brand design.svg": {
+    "mime": "image/svg+xml"
+  },
+  "motion graphics.svg": {
+    "mime": "image/svg+xml"
+  },
+  "arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "about me photo.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img 1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "img2.jpeg": {
+    "mime": "image/jpeg"
+  }
+}
