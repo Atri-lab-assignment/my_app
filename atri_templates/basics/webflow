@@ -1,0 +1,88 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "e3c68bfe-e93a-40f1-a406-ad429f17bc9c",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "boxShadow": "0px 00px 0px 0px ",
+          "maxWidth": "100%",
+          "width": "129px",
+          "height": "21px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "eb95059a-a812-493e-a26d-f4102dfd8bdd",
+    "childId": "e3c68bfe-e93a-40f1-a406-ad429f17bc9c"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "3f9e6cf1-7bc4-4df7-a381-dce1de6ac5cc",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "eb95059a-a812-493e-a26d-f4102dfd8bdd",
+    "childId": "3f9e6cf1-7bc4-4df7-a381-dce1de6ac5cc"
+  },
+  {
+    "id": "580eface-79c2-4730-85b1-6be2d95ea80a",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "eb95059a-a812-493e-a26d-f4102dfd8bdd",
+    "childId": "580eface-79c2-4730-85b1-6be2d95ea80a"
+  },
+  {
+    "id": "eb95059a-a812-493e-a26d-f4102dfd8bdd",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "Image1"
+    }
+  }
+]
