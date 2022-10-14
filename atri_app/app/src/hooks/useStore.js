@@ -6193,7 +6193,7 @@ const desktopModeProps = {
       "styles": {
         "color": "#00000099",
         "backgroundColor": "#ffffff",
-        "paddingTop": "14px",
+        "paddingTop": "",
         "paddingLeft": "25px",
         "paddingBottom": "14px",
         "paddingRight": "15px",
